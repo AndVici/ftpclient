@@ -1,0 +1,18 @@
+c:\users\willie quasar\documents\visual studio 2015\Projects\ftpclient\ftpclient\bin\Debug\ftpclient.exe.config
+c:\users\willie quasar\documents\visual studio 2015\Projects\ftpclient\ftpclient\bin\Debug\ftpclient.exe
+c:\users\willie quasar\documents\visual studio 2015\Projects\ftpclient\ftpclient\bin\Debug\ftpclient.pdb
+c:\users\willie quasar\documents\visual studio 2015\Projects\ftpclient\ftpclient\obj\Debug\ftpclient.exe
+c:\users\willie quasar\documents\visual studio 2015\Projects\ftpclient\ftpclient\obj\Debug\ftpclient.pdb
+c:\users\willie quasar\documents\visual studio 2015\Projects\ftpclient\ftpclient\obj\Debug\ftpclient.csprojResolveAssemblyReference.cache
+C:\Users\Willie Quasar\Documents\Visual Studio 2015\Projects\ftpclient\bin\Debug\ftpclient.exe.config
+C:\Users\Willie Quasar\Documents\Visual Studio 2015\Projects\ftpclient\obj\Debug\ftpclient.exe
+C:\Users\Willie Quasar\Documents\Visual Studio 2015\Projects\ftpclient\obj\Debug\ftpclient.pdb
+C:\Users\willie\OneDrive\vswerk\ftpclient\bin\Debug\ftpclient.exe.config
+C:\Users\willie\OneDrive\vswerk\ftpclient\obj\Debug\ftpclient.exe
+C:\Users\willie\OneDrive\vswerk\ftpclient\obj\Debug\ftpclient.pdb
+C:\Users\willie\OneDrive\vswerk\ftpclient\bin\Debug\ftpclient.exe
+C:\Users\willie\OneDrive\vswerk\ftpclient\bin\Debug\ftpclient.pdb
+C:\Users\willie\OneDrive\vswerk\ftpclient\obj\Debug\ftpclient.csprojResolveAssemblyReference.cache
+C:\Users\Willie Quasar\OneDrive\vswerk\ftpclient\bin\Debug\ftpclient.exe.config
+C:\Users\Willie Quasar\OneDrive\vswerk\ftpclient\obj\Debug\ftpclient.exe
+C:\Users\Willie Quasar\OneDrive\vswerk\ftpclient\obj\Debug\ftpclient.pdb
